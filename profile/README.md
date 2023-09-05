@@ -1,8 +1,8 @@
-# Zyno Software LLC
+**Zyno Software LLC**
 
-## Projects:
-- ZynoHub: Check out our script hub with support for over 10+ games! [GitHub Link](https://github.com/Zyno-LLC/ZynoHub)
+**Projects:**
+- ZynoHub: Explore our versatile script hub supporting 10+ games! [GitHub Link](https://github.com/Zyno-LLC/ZynoHub)
 
-## Staff:
+**Staff:**
 - WavaDev
 - Synex
