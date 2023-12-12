@@ -1,4 +1,4 @@
-**Zyno Software LLC**
+**Zyno Software Inc.**
 
 **Projects:**
 - 
